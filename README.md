@@ -1,6 +1,6 @@
 # pandas-challenge
 # Aggregate school math and reading test scores and analysis of trends
-# README.md last updated Sunday 07/18/2021 03:35 PM Pacific Time
+# README.md last updated Thursday 07/22/2021 03:43 PM Pacific Time
 # 
 # The followng descriptions are taken from the instructions located on the following two
 #
